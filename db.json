@@ -1,4 +1,27 @@
 {
+  "trainers": [
+    {
+      "id": 1,
+      "name": "ABC",
+      "shortName": "A",
+      "totalWin": 0,
+      "winHistory": []
+    },
+    {
+      "id": 2,
+      "name": "DEF",
+      "shortName": "D",
+      "totalWin": 0,
+      "winHistory": []
+    },
+    {
+      "id": 3,
+      "name": "GHI",
+      "shortName": "G",
+      "totalWin": 0,
+      "winHistory": []
+    }
+  ],
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
